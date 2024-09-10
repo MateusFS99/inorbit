@@ -1,0 +1,3 @@
+[submodule "inorbit-api"]
+	path = inorbit-api
+	url = https://github.com/MateusFS99/inorbit-api.git
